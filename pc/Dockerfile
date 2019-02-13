@@ -1,3 +1,3 @@
 FROM openjdk
 WORKDIR /app
-CMD java -Xmx1024M -Xms1024M -jar server.jar
+CMD java -Xms512M -Xmx1024M -jar server.jar nogui
