@@ -1,69 +1,60 @@
-[19:53:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:53:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:53:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:53:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:53:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:53:01] [main/INFO]: Loaded 0 recipes
-[19:53:01] [main/INFO]: Loaded 0 advancements
-[19:53:02] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[19:53:02] [Server thread/INFO]: Loading properties
-[19:53:02] [Server thread/INFO]: Default game type: SURVIVAL
-[19:53:02] [Server thread/INFO]: Generating keypair
-[19:53:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:53:03] [Server thread/INFO]: Using epoll channel type
-[19:53:03] [Server thread/INFO]: Preparing level "world"
-[19:53:03] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
-[19:53:03] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:53:04] [Server thread/INFO]: Loaded 524 recipes
-[19:53:05] [Server thread/INFO]: Loaded 571 advancements
-[19:53:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:53:14] [Server thread/INFO]: Preparing spawn area: 0%
-[19:53:15] [Server thread/INFO]: Preparing spawn area: 0%
-[19:53:16] [Server thread/INFO]: Preparing spawn area: 0%
-[19:53:17] [Server thread/INFO]: Preparing spawn area: 0%
-[19:53:18] [Server thread/INFO]: Preparing spawn area: 0%
-[19:53:18] [Server thread/INFO]: Preparing spawn area: 4%
-[19:53:19] [Server thread/INFO]: Preparing spawn area: 8%
-[19:53:20] [Server thread/INFO]: Preparing spawn area: 12%
-[19:53:20] [Server thread/INFO]: Preparing spawn area: 16%
-[19:53:21] [Server thread/INFO]: Preparing spawn area: 20%
-[19:53:22] [Server thread/INFO]: Preparing spawn area: 24%
-[19:53:23] [Server thread/INFO]: Preparing spawn area: 28%
-[19:53:23] [Server thread/INFO]: Preparing spawn area: 32%
-[19:53:24] [Server thread/INFO]: Preparing spawn area: 36%
-[19:53:25] [Server thread/INFO]: Preparing spawn area: 40%
-[19:53:25] [Server thread/INFO]: Preparing spawn area: 44%
-[19:53:26] [Server thread/INFO]: Preparing spawn area: 48%
-[19:53:26] [Server thread/INFO]: Preparing spawn area: 52%
-[19:53:27] [Server thread/INFO]: Preparing spawn area: 56%
-[19:53:27] [Server thread/INFO]: Preparing spawn area: 60%
-[19:53:28] [Server thread/INFO]: Preparing spawn area: 64%
-[19:53:28] [Server thread/INFO]: Preparing spawn area: 68%
-[19:53:29] [Server thread/INFO]: Preparing spawn area: 72%
-[19:53:30] [Server thread/INFO]: Preparing spawn area: 76%
-[19:53:30] [Server thread/INFO]: Preparing spawn area: 80%
-[19:53:30] [Server thread/INFO]: Preparing spawn area: 84%
-[19:53:31] [Server thread/INFO]: Preparing spawn area: 88%
-[19:53:31] [Server thread/INFO]: Preparing spawn area: 92%
-[19:53:32] [Server thread/INFO]: Preparing spawn area: 96%
-[19:53:32] [Server thread/INFO]: Preparing spawn area: 100%
-[19:53:32] [Server thread/INFO]: Time elapsed: 19631 ms
-[19:53:32] [Server thread/INFO]: Done (29.039s)! For help, type "help"
-[19:53:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[19:54:08] [User Authenticator #1/INFO]: UUID of player harrysix2 is efd67a32-af66-415d-a54e-93381e617ddd
-[19:54:08] [Server thread/INFO]: harrysix2[/223.91.228.65:59784] logged in with entity id 751 at (-70.5, 70.0, 63.5)
-[19:54:08] [Server thread/INFO]: harrysix2 joined the game
-[19:54:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
-[19:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[20:00:48] [Server thread/INFO]: harrysix2 has made the advancement [Stone Age]
-[20:01:35] [Server thread/INFO]: harrysix2 has made the advancement [Getting an Upgrade]
-[20:14:50] [Server thread/INFO]: harrysix2 has made the advancement [Monster Hunter]
-[20:15:47] [Server thread/INFO]: harrysix2 has made the advancement [A Seedy Place]
-[20:17:15] [Server thread/INFO]: harrysix2 has made the advancement [The Parrots and the Bats]
-[21:08:59] [Server thread/INFO]: harrysix2 lost connection: Disconnected
-[21:08:59] [Server thread/INFO]: harrysix2 left the game
-[21:10:40] [User Authenticator #2/INFO]: UUID of player harrysix2 is efd67a32-af66-415d-a54e-93381e617ddd
-[21:10:40] [Server thread/INFO]: harrysix2[/223.91.228.65:59489] logged in with entity id 121694 at (-143.98863894198047, 52.0, 46.327369845636056)
-[21:10:40] [Server thread/INFO]: harrysix2 joined the game
-[21:14:54] [Server thread/INFO]: harrysix2 lost connection: Disconnected
-[21:14:54] [Server thread/INFO]: harrysix2 left the game
+[01:27:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:27:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:27:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:27:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:27:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:27:45] [main/INFO]: Loaded 0 recipes
+[01:27:45] [main/INFO]: Loaded 0 advancements
+[01:27:45] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[01:27:45] [Server thread/INFO]: Loading properties
+[01:27:45] [Server thread/INFO]: Default game type: SURVIVAL
+[01:27:45] [Server thread/INFO]: Generating keypair
+[01:27:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:27:46] [Server thread/INFO]: Using epoll channel type
+[01:27:46] [Server thread/INFO]: Preparing level "world"
+[01:27:46] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:27:47] [Server thread/INFO]: Loaded 524 recipes
+[01:27:48] [Server thread/INFO]: Loaded 571 advancements
+[01:27:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:27:49] [Server thread/INFO]: Preparing spawn area: 4%
+[01:27:49] [Server thread/INFO]: Preparing spawn area: 8%
+[01:27:49] [Server thread/INFO]: Preparing spawn area: 12%
+[01:27:49] [Server thread/INFO]: Preparing spawn area: 16%
+[01:27:49] [Server thread/INFO]: Preparing spawn area: 20%
+[01:27:49] [Server thread/INFO]: Preparing spawn area: 24%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 28%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 32%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 36%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 40%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 44%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 48%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 52%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 56%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 60%
+[01:27:50] [Server thread/INFO]: Preparing spawn area: 64%
+[01:27:51] [Server thread/INFO]: Preparing spawn area: 68%
+[01:27:51] [Server thread/INFO]: Preparing spawn area: 72%
+[01:27:51] [Server thread/INFO]: Preparing spawn area: 76%
+[01:27:51] [Server thread/INFO]: Preparing spawn area: 80%
+[01:27:51] [Server thread/INFO]: Preparing spawn area: 84%
+[01:27:51] [Server thread/INFO]: Preparing spawn area: 88%
+[01:27:51] [Server thread/INFO]: Preparing spawn area: 92%
+[01:27:51] [Server thread/INFO]: Preparing spawn area: 96%
+[01:27:51] [Server thread/INFO]: Preparing spawn area: 100%
+[01:27:51] [Server thread/INFO]: Time elapsed: 3034 ms
+[01:27:51] [Server thread/INFO]: Done (4.890s)! For help, type "help"
+[01:36:48] [User Authenticator #1/INFO]: UUID of player harrysix2 is efd67a32-af66-415d-a54e-93381e617ddd
+[01:36:49] [Server thread/INFO]: harrysix2[/223.91.228.65:59662] logged in with entity id 396 at (-116.42891086734537, 24.0, 45.30000001192093)
+[01:36:49] [Server thread/INFO]: harrysix2 joined the game
+[01:36:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3949ms or 78 ticks behind
+[01:39:29] [Server thread/INFO]: harrysix2 has made the advancement [Acquire Hardware]
+[01:39:38] [Server thread/INFO]: harrysix2 has made the advancement [Isn't It Iron Pick]
+[01:41:55] [Server thread/INFO]: harrysix2 has made the advancement [Hot Stuff]
+[03:02:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3742ms or 74 ticks behind
+[03:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[03:12:48] [Server thread/INFO]: harrysix2 has made the advancement [Sweet Dreams]
+[03:34:53] [Server thread/INFO]: <harrysix2> WW
+[06:06:19] [Server thread/INFO]: harrysix2 has made the advancement [Best Friends Forever]
+[06:14:48] [Server thread/INFO]: harrysix2 has made the advancement [Tactical Fishing]
+[06:51:37] [Server thread/INFO]: harrysix2 lost connection: Disconnected
+[06:51:37] [Server thread/INFO]: harrysix2 left the game
