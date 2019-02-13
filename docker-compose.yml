@@ -1,10 +1,10 @@
 version: '3'
 
 services:
-  mc:
+  mcpc:
     build: .
-    container_name: mc
+    container_name: mcpc
     ports:
       - "25565:25565"
     volumes:
-      - ./app:/app:rw
+      - ./pc:/app:rw
