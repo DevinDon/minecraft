@@ -13,7 +13,7 @@ services:
     build: ./pe
     container_name: mcpe
     ports:
-      - "19132:19132"
-      - "19133:19133"
+      - "19132:19132/udp"
+      - "19133:19133/udp"
     volumes:
       - ./pe:/app:rw
