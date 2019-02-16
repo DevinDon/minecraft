@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-02-15 05:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2019-02-12 19:59:26 +0000"
@@ -321,8 +327,10 @@
     "criteria": {
       "cooked_porkchop": "2019-02-12 20:15:27 +0000",
       "baked_potato": "2019-02-13 18:10:25 +0000",
+      "beetroot_soup": "2019-02-15 05:17:30 +0000",
       "potato": "2019-02-13 06:28:33 +0000",
       "bread": "2019-02-12 20:28:33 +0000",
+      "beetroot": "2019-02-14 23:58:10 +0000",
       "carrot": "2019-02-13 06:05:23 +0000"
     },
     "done": false
@@ -339,9 +347,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2019-02-16 09:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2019-02-12 20:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-02-15 06:58:16 +0000"
     },
     "done": true
   },
@@ -606,6 +626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2019-02-16 07:44:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2019-02-12 20:15:27 +0000"
@@ -753,7 +779,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2019-02-12 20:14:50 +0000",
-      "minecraft:zombie": "2019-02-12 20:48:35 +0000"
+      "minecraft:zombie": "2019-02-12 20:48:35 +0000",
+      "minecraft:drowned": "2019-02-16 07:44:18 +0000"
     },
     "done": false
   },
@@ -811,9 +838,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2019-02-16 09:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2019-02-13 01:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2019-02-16 08:06:30 +0000"
     },
     "done": true
   },
@@ -967,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2019-02-16 09:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2019-02-13 03:08:39 +0000"
@@ -1081,6 +1126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2019-02-16 09:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-02-13 06:48:53 +0000"
@@ -1090,6 +1141,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2019-02-12 19:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-02-15 05:24:30 +0000"
     },
     "done": true
   },
@@ -1311,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2019-02-16 09:05:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-02-12 20:00:48 +0000"
@@ -1326,6 +1389,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2019-02-12 20:00:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2019-02-16 09:37:52 +0000"
     },
     "done": true
   },
@@ -1368,6 +1437,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-02-13 06:48:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2019-02-16 09:08:04 +0000"
     },
     "done": true
   },
@@ -1476,6 +1551,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-02-13 03:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-02-14 23:28:21 +0000"
     },
     "done": true
   },
