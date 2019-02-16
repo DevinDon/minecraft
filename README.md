@@ -1,5 +1,15 @@
 # Minecraft Server
 
-Minecraft version: 1.13.2
+Minecraft PC server & Minecraft PE server, build with docker.
 
-Last update: 2019.02.13
+# Minecraft PC(Java)
+
+version: 1.13.2
+
+port: 25565 / TCP
+
+# Minecraft PE(Bedrock)
+
+version: 1.9.15
+
+port: 19132 / UDP
