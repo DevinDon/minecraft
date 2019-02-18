@@ -4,7 +4,6 @@ version: '3'
 services:
   mcpe:
     image: registry.cn-shanghai.aliyuncs.com/infinites/mcpe
-    container_name: mcpe
     ports:
       - "19132:19132/udp"
       - "19133:19133/udp"

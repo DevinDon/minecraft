@@ -4,7 +4,6 @@ version: '3'
 services:
   mcpc:
     image: registry.cn-shanghai.aliyuncs.com/infinites/mcpc
-    container_name: mcpc
     ports:
       - "25565:25565"
     volumes:
