@@ -6,4 +6,12 @@ services:
     ports:
       - "25565:25565"
     volumes:
-      - .:/app:rw
+      - ./logs:/app/logs
+      - ./world:/app/world
+      - ./banned-ips.json:/app/banned-ips.json
+      - ./banned-players.json:/app/banned-players.json
+      - ./eula.txt:/app/eula/txt
+      - ./ops.json:/app/ops.json
+      - ./server.properties:/app/server.properties
+      - ./usercache.json:/app/usercache.json
+      - ./whitelist.json:/app/whitelist.json

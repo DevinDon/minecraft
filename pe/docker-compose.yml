@@ -7,4 +7,17 @@ services:
       - "19132:19132/udp"
       - "19133:19133/udp"
     volumes:
-      - .:/app:rw
+      - ./behavior_packs:/app/behavior_packs
+      - ./development_behavior_packs:/app/development_behavior_packs
+      - ./development_resource_packs:/app/development_resource_packs
+      - ./premium_cache:/app/premium_cache
+      - ./resource_packs:/app/resource_packs
+      - ./treatments:/app/treatments
+      - ./world_templates:/app/world_templates
+      - ./worlds:/app/worlds
+      - ./bedrock_server.filepart:/app/bedrock_server.filepart
+      - ./Debug_Log.txt:/app/Debug_Log.txt
+      - ./permissions.json:/app/permissions.json
+      - ./server.properties:/app/server.properties
+      - ./valid_known_packs.json:/app/valid_known_packs.json
+      - ./whitelist.json:/app/whitelist.json
