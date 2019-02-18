@@ -1,9 +1,9 @@
-# Version 2019.02.18-13-16
+# Version 2019.02.18-12-30
 version: '3'
 
 services:
   mcpc:
-    image: registry.cn-shanghai.aliyuncs.com/infinites/mcpc
+    image: registry.cn-shanghai.aliyuncs.com/infinites/mcpc:2019.02.18-12-30
     ports:
       - "25565:25565"
     volumes:
